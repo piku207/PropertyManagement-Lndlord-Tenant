@@ -1,6 +1,7 @@
 import axios, { type AxiosInstance } from 'axios';
 
-const BASE_URL = 'https://ubiquitous-space-fortnight-pjg5q9pwjwq7hr7gw-8080.app.github.dev';
+const BASE_URL = 'https://refactored-palm-tree-x5gqrp4v4g99c66qv-8080.app.github.dev';
+
 
 class ApiService {
   private api: AxiosInstance;
